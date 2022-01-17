@@ -32,4 +32,4 @@ Feel free to contact me on these locations:
          alt="Steps in the Program Development Process we all need to be aware" width="400" height="400">
     <figcaption> <h6>Steps in the Program Development Process we all need to be aware.</h6></figcaption>
 </figure>
-
+That is so funny! :joy:
